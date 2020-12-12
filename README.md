@@ -13,7 +13,7 @@ Et voilà! Here there are the FizzBuzzed values!
 The default max value to fizz buzz is 20, if you want to set your own you can run
 
 ```
-php -f oneFizzBuzz.php yourOwnIntegereValue
+php -f oneFizzBuzz.php yourOwnIntegerValue
 ```
 
 E.g.
