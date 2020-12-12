@@ -32,7 +32,7 @@ function fizzBuzzAndPrintValues(int $minValue, int $maxValue)
  */
 function fizzBuzzAValue(int $theValue)
 {
-    /** @var int|string $outputVal */
+    /** @var string $outputVal */
     $outputVal = '';
 
     if ($theValue % 3 === 0) {
